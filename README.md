@@ -18,7 +18,6 @@ An e-commerce application.
 5. Run `dotnet restore` to fetch all package dependencies
 6. Navigate to `src/WebUI` and launch the project using `dotnet run`
 
-Check out my [blog post](https://jasontaylor.dev/clean-architecture-getting-started/) for more information.
 
 ### Database Configuration
 
